@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E73396A6-C61C-8337-47CB-B666A089491D}</ProjectGuid>
+    <ProjectGuid>{9B81E599-22FB-8642-6A4A-38F13C9FB67B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -75,6 +75,8 @@
      <Compile Include="Assets\Scripts\Common\Animation\TransformScaleTweener.cs" />
      <Compile Include="Assets\Scripts\Common\Animation\Tweener.cs" />
      <Compile Include="Assets\Scripts\Common\Animation\Vector3Tweener.cs" />
+     <Compile Include="Assets\Scripts\Model\Point.cs" />
+     <Compile Include="Assets\Scripts\MVC\Tile.cs" />
      <None Include="Assets\BbSprite\shaders\BbSprite_ColorKey_UR.shader" />
      <None Include="Assets\BbSprite\shaders\BbSprite_ColorKey_LR.shader" />
      <None Include="Assets\BbSprite\shaders\BbSprite_ColorKey_Custom.shader" />
