@@ -75,8 +75,10 @@
      <Compile Include="Assets\Scripts\Common\Animation\TransformScaleTweener.cs" />
      <Compile Include="Assets\Scripts\Common\Animation\Tweener.cs" />
      <Compile Include="Assets\Scripts\Common\Animation\Vector3Tweener.cs" />
+     <Compile Include="Assets\Scripts\Model\LevelData.cs" />
      <Compile Include="Assets\Scripts\Model\Point.cs" />
      <Compile Include="Assets\Scripts\MVC\Tile.cs" />
+     <Compile Include="Assets\Scripts\Pre\BoardCreator.cs" />
      <None Include="Assets\BbSprite\shaders\BbSprite_ColorKey_UR.shader" />
      <None Include="Assets\BbSprite\shaders\BbSprite_ColorKey_LR.shader" />
      <None Include="Assets\BbSprite\shaders\BbSprite_ColorKey_Custom.shader" />
