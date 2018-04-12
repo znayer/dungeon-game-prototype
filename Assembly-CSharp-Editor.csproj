@@ -59,6 +59,7 @@
      <Compile Include="Assets\BbSprite\Editor\helpers\PseudoDefaultInspector.cs" />
      <Compile Include="Assets\BbSprite\Editor\Window_AtlasPreview.cs" />
      <Compile Include="Assets\BbSprite\Editor\Window_BbSpriteOptions.cs" />
+     <Compile Include="Assets\Editor\BoardCreatorInspector.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity 2017.3.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

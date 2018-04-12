@@ -18,13 +18,16 @@ public class BoardCreator : MonoBehaviour {
 
 	Dictionary<Point, Tile> tiles = new Dictionary<Point, Tile>();
 
-	Transform marker{
-		get{
-			if (_marker == null){
+	Transform marker
+	{
+		get
+		{
+			if (_marker == null)
+			{
 				GameObject instance = Instantiate(tileSelectionIndicatorPrefab) as GameObject;
 				_marker = instance.transform;
 			}
-			return marker;
+			return _marker;
 		}
 	}
 	Transform _marker;
