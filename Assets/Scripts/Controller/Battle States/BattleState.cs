@@ -29,7 +29,7 @@ public abstract class BattleState : State {
 
 	}
 
-	protected virtual void OnFire(object sender, InfoEventArgs<Point> e){
+	protected virtual void OnFire(object sender, InfoEventArgs<int> e){
 
 	}
 
