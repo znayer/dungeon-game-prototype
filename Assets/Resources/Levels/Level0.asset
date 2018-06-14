@@ -9,7 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6b62d06cbfd43074f82b63f4b644cec7, type: 3}
-  m_Name: BoardCreator
+  m_Name: Level0
   m_EditorClassIdentifier: 
   tiles:
   - {x: 0, y: 4, z: 0}
